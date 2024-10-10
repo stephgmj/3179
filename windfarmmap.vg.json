@@ -1,0 +1,28 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 900,
+    "height": 450,
+    "title": "Wind Farms Victoria",
+    "projection": {"type": "mercator"},
+    "layer": [
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/stephgmj/3179/refs/heads/main/vic_localities.json",
+          "format": {"type": "topojson", "feature": "vic_localities"}
+        },
+        "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+      },
+      {
+          "data": {
+            "url": "https://raw.githubusercontent.com/stephgmj/3179/refs/heads/main/RENEWABLE_ENERGY_STORAGE%20(1).json"
+          },
+          "mark": "circle",
+          "encoding": {
+            "latitude": {"field": "coordinates", "type": "quantitative"},
+            "longitude": {"field": "coordinates", "type": "quantitative"},
+            "tooltip": [
+              {"field": "properties.NAME", "type": "nominal", "title": "Wind Farm"}
+            ]
+          }
+        }]
+      }

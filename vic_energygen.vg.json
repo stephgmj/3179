@@ -1,0 +1,19 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {"text": "Victoria's Energy Generation"},
+    "data": {
+        "url": "https://raw.githubusercontent.com/stephgmj/3179/refs/heads/main/20231009%20Victoria.csv"
+    },
+    "mark": "area",
+    "encoding": {
+        "x": {
+            "timeUnit": "month", 
+            "field": "date", 
+            "type": "ordinal"
+        },
+        "y": {
+            "aggregate": "count", 
+            "type": "quantitative"
+        }
+    }
+}
