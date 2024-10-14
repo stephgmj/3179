@@ -1,0 +1,24 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 300,
+    "title": {"text": "Victoria's Yearly Energy Generation"},
+    "data": {
+        "url": "https://raw.githubusercontent.com/stephgmj/3179/refs/heads/main/generation%20over%20years.csv"
+    },
+    "mark": "bar",
+    "encoding": {
+        "x": {
+            "field": "Year", 
+            "type": "ordinal"
+        },
+        "y": {
+            "field": "Energy Generated (GWh)",
+            "type": "quantitative"
+        },
+        "color": {
+            "field": "Energy Type",
+            "type": "nominal"
+        }
+    }
+}
