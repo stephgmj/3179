@@ -1,118 +1,109 @@
 ﻿date,Energy Type,Energy Generated (GWh)
-1/10/2023 0:00,Imports,134.65
-1/10/2023 0:00,Coal (Brown),1341.24
-1/10/2023 0:00,Gas (Steam),0
-1/10/2023 0:00,Gas (OCGT),2.98
-1/10/2023 0:00,Battery (Discharging),8.76
-1/10/2023 0:00,Hydro,90.2
-1/10/2023 0:00,Wind,606.27
-1/10/2023 0:00,Solar (Utility),68.99
-1/10/2023 0:00,Solar (Rooftop),315.89
-1/11/2023 0:00,Imports,170.24
-1/11/2023 0:00,Coal (Brown),2445.1
-1/11/2023 0:00,Gas (Steam),0
-1/11/2023 0:00,Gas (OCGT),27.25
-1/11/2023 0:00,Battery (Discharging),12.18
-1/11/2023 0:00,Hydro,161.23
-1/11/2023 0:00,Wind,773.47
-1/11/2023 0:00,Solar (Utility),161.7
-1/11/2023 0:00,Solar (Rooftop),539.62
-1/12/2023 0:00,Imports,179.81
-1/12/2023 0:00,Coal (Brown),2395.06
-1/12/2023 0:00,Gas (Steam),12.62
-1/12/2023 0:00,Gas (OCGT),17.01
-1/12/2023 0:00,Battery (Discharging),10.38
-1/12/2023 0:00,Hydro,155.48
-1/12/2023 0:00,Wind,942.91
-1/12/2023 0:00,Solar (Utility),150.3
-1/12/2023 0:00,Solar (Rooftop),569.39
-1/01/2024 0:00,Imports,133.43
-1/01/2024 0:00,Coal (Brown),2718.33
-1/01/2024 0:00,Gas (Steam),0
-1/01/2024 0:00,Gas (OCGT),8.67
-1/01/2024 0:00,Battery (Discharging),9.04
-1/01/2024 0:00,Hydro,166.26
-1/01/2024 0:00,Wind,803.36
-1/01/2024 0:00,Solar (Utility),185.39
-1/01/2024 0:00,Solar (Rooftop),603.21
-1/02/2024 0:00,Imports,141.37
-1/02/2024 0:00,Coal (Brown),2557.7
-1/02/2024 0:00,Gas (Steam),17.26
-1/02/2024 0:00,Gas (OCGT),55.84
-1/02/2024 0:00,Battery (Discharging),12.08
-1/02/2024 0:00,Hydro,216.37
-1/02/2024 0:00,Wind,727.03
-1/02/2024 0:00,Solar (Utility),191.82
-1/02/2024 0:00,Solar (Rooftop),590.6
-1/03/2024 0:00,Imports,134.02
-1/03/2024 0:00,Coal (Brown),2751.08
-1/03/2024 0:00,Gas (Steam),8.95
-1/03/2024 0:00,Gas (OCGT),24.91
-1/03/2024 0:00,Battery (Discharging),12.45
-1/03/2024 0:00,Hydro,206.75
-1/03/2024 0:00,Wind,767.46
-1/03/2024 0:00,Solar (Utility),182.59
-1/03/2024 0:00,Solar (Rooftop),525.32
-1/04/2024 0:00,Imports,283.26
-1/04/2024 0:00,Coal (Brown),2591.21
-1/04/2024 0:00,Gas (Steam),17.83
-1/04/2024 0:00,Gas (OCGT),26.12
-1/04/2024 0:00,Battery (Discharging),18.33
-1/04/2024 0:00,Hydro,163.42
-1/04/2024 0:00,Wind,639.89
-1/04/2024 0:00,Solar (Utility),127.55
-1/04/2024 0:00,Solar (Rooftop),323.41
-1/05/2024 0:00,Imports,202.81
-1/05/2024 0:00,Coal (Brown),2950.3
-1/05/2024 0:00,Gas (Steam),87.83
-1/05/2024 0:00,Gas (OCGT),151.11
-1/05/2024 0:00,Battery (Discharging),19.69
-1/05/2024 0:00,Hydro,235.27
-1/05/2024 0:00,Wind,655.79
-1/05/2024 0:00,Solar (Utility),114.47
-1/05/2024 0:00,Solar (Rooftop),287.36
-1/06/2024 0:00,Imports,200.89
-1/06/2024 0:00,Coal (Brown),3077.57
-1/06/2024 0:00,Gas (Steam),79.64
-1/06/2024 0:00,Gas (OCGT),261.95
-1/06/2024 0:00,Battery (Discharging),21.52
-1/06/2024 0:00,Hydro,258.92
-1/06/2024 0:00,Wind,757.05
-1/06/2024 0:00,Solar (Utility),93.27
-1/06/2024 0:00,Solar (Rooftop),198.69
-1/07/2024 0:00,Imports,217.72
-1/07/2024 0:00,Coal (Brown),3107.48
-1/07/2024 0:00,Gas (Steam),113.89
-1/07/2024 0:00,Gas (OCGT),187.31
-1/07/2024 0:00,Battery (Discharging),26.66
-1/07/2024 0:00,Hydro,323.69
-1/07/2024 0:00,Wind,1046.34
-1/07/2024 0:00,Solar (Utility),90.03
-1/07/2024 0:00,Solar (Rooftop),224.49
-1/08/2024 0:00,Imports,255.62
-1/08/2024 0:00,Coal (Brown),2594.13
-1/08/2024 0:00,Gas (Steam),13.74
-1/08/2024 0:00,Gas (OCGT),108.05
-1/08/2024 0:00,Battery (Discharging),25.93
-1/08/2024 0:00,Hydro,208.25
-1/08/2024 0:00,Wind,1197.09
-1/08/2024 0:00,Solar (Utility),101.54
-1/08/2024 0:00,Solar (Rooftop),350.67
-1/09/2024 0:00,Imports,255.15
-1/09/2024 0:00,Coal (Brown),2473.58
-1/09/2024 0:00,Gas (Steam),1.46
-1/09/2024 0:00,Gas (OCGT),13.37
-1/09/2024 0:00,Battery (Discharging),15.9
-1/09/2024 0:00,Hydro,147.23
-1/09/2024 0:00,Wind,1161.8
-1/09/2024 0:00,Solar (Utility),114.97
-1/09/2024 0:00,Solar (Rooftop),423.18
-1/10/2024 0:00,Imports,120.6
-1/10/2024 0:00,Coal (Brown),953.66
-1/10/2024 0:00,Gas (Steam),0
-1/10/2024 0:00,Gas (OCGT),4.04
-1/10/2024 0:00,Battery (Discharging),0.63
-1/10/2024 0:00,Hydro,98.1
-1/10/2024 0:00,Wind,466.19
-1/10/2024 0:00,Solar (Utility),78.37
-1/10/2024 0:00,Solar (Rooftop),280.22
+October 2023,Imports,134.65
+October 2023,Coal (Brown),1341.24
+October 2023,Gas (Steam),0
+October 2023,Gas (OCGT),2.98
+October 2023,Battery (Discharging),8.76
+October 2023,Hydro,90.2
+October 2023,Wind,606.27
+October 2023,Solar (Utility),68.99
+October 2023,Solar (Rooftop),315.89
+November 2023,Imports,170.24
+November 2023,Coal (Brown),2445.1
+November 2023,Gas (Steam),0
+November 2023,Gas (OCGT),27.25
+November 2023,Battery (Discharging),12.18
+November 2023,Hydro,161.23
+November 2023,Wind,773.47
+November 2023,Solar (Utility),161.7
+November 2023,Solar (Rooftop),539.62
+December 2023,Imports,179.81
+December 2023,Coal (Brown),2395.06
+December 2023,Gas (Steam),12.62
+December 2023,Gas (OCGT),17.01
+December 2023,Battery (Discharging),10.38
+December 2023,Hydro,155.48
+December 2023,Wind,942.91
+December 2023,Solar (Utility),150.3
+December 2023,Solar (Rooftop),569.39
+January 2024,Imports,133.43
+January 2024,Coal (Brown),2718.33
+January 2024,Gas (Steam),0
+January 2024,Gas (OCGT),8.67
+January 2024,Battery (Discharging),9.04
+January 2024,Hydro,166.26
+January 2024,Wind,803.36
+January 2024,Solar (Utility),185.39
+January 2024,Solar (Rooftop),603.21
+February 2024,Imports,141.37
+February 2024,Coal (Brown),2557.7
+February 2024,Gas (Steam),17.26
+February 2024,Gas (OCGT),55.84
+February 2024,Battery (Discharging),12.08
+February 2024,Hydro,216.37
+February 2024,Wind,727.03
+February 2024,Solar (Utility),191.82
+February 2024,Solar (Rooftop),590.6
+March 2024,Imports,134.02
+March 2024,Coal (Brown),2751.08
+March 2024,Gas (Steam),8.95
+March 2024,Gas (OCGT),24.91
+March 2024,Battery (Discharging),12.45
+March 2024,Hydro,206.75
+March 2024,Wind,767.46
+March 2024,Solar (Utility),182.59
+March 2024,Solar (Rooftop),525.32
+April 2024,Imports,283.26
+April 2024,Coal (Brown),2591.21
+April 2024,Gas (Steam),17.83
+April 2024,Gas (OCGT),26.12
+April 2024,Battery (Discharging),18.33
+April 2024,Hydro,163.42
+April 2024,Wind,639.89
+April 2024,Solar (Utility),127.55
+April 2024,Solar (Rooftop),323.41
+May 2024,Imports,202.81
+May 2024,Coal (Brown),2950.3
+May 2024,Gas (Steam),87.83
+May 2024,Gas (OCGT),151.11
+May 2024,Battery (Discharging),19.69
+May 2024,Hydro,235.27
+May 2024,Wind,655.79
+May 2024,Solar (Utility),114.47
+May 2024,Solar (Rooftop),287.36
+June 2024,Imports,200.89
+June 2024,Coal (Brown),3077.57
+June 2024,Gas (Steam),79.64
+June 2024,Gas (OCGT),261.95
+June 2024,Battery (Discharging),21.52
+June 2024,Hydro,258.92
+June 2024,Wind,757.05
+June 2024,Solar (Utility),93.27
+June 2024,Solar (Rooftop),198.69
+July 2024,Imports,217.72
+July 2024,Coal (Brown),3107.48
+July 2024,Gas (Steam),113.89
+July 2024,Gas (OCGT),187.31
+July 2024,Battery (Discharging),26.66
+July 2024,Hydro,323.69
+July 2024,Wind,1046.34
+July 2024,Solar (Utility),90.03
+July 2024,Solar (Rooftop),224.49
+August 2024,Imports,255.62
+August 2024,Coal (Brown),2594.13
+August 2024,Gas (Steam),13.74
+August 2024,Gas (OCGT),108.05
+August 2024,Battery (Discharging),25.93
+August 2024,Hydro,208.25
+August 2024,Wind,1197.09
+August 2024,Solar (Utility),101.54
+August 2024,Solar (Rooftop),350.67
+September 2024,Imports,255.15
+September 2024,Coal (Brown),2473.58
+September 2024,Gas (Steam),1.46
+September 2024,Gas (OCGT),13.37
+September 2024,Battery (Discharging),15.9
+September 2024,Hydro,147.23
+September 2024,Wind,1161.8
+September 2024,Solar (Utility),114.97
+September 2024,Solar (Rooftop),423.18
