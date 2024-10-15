@@ -1,21 +1,20 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 350,
-    "height": 250,
-    "title": {"text": "Victoria's Energy Generation Over 2023/2024"},
+    "width": 300,
+    "height": 200,
+    "title": {"text": "Victoria's Yearly Energy Generation"},
     "data": {
-        "url": "https://raw.githubusercontent.com/stephgmj/3179/refs/heads/main/20231001%20Victoria.csv"
+        "url": "https://raw.githubusercontent.com/stephgmj/3179/refs/heads/main/generation%20over%20years.csv"
     },
     "params": [{
         "name": "pts",
-        "select": "point"
+        "select": {"type": "point", "fields": ["Energy Type"]}
       }],
-    "mark": "line",
+    "mark": "bar",
     "encoding": {
         "x": {
-            "field": "date", 
-            "type": "temporal",
-            "title": "Month"
+            "field": "Year", 
+            "type": "ordinal"
         },
         "y": {
             "field": "Energy Generated (GWh)",
@@ -31,10 +30,9 @@
         },
         "tooltip": [
             {
-                "field": "date",
-                "type": "temporal",
-                "timeUnit": "month",
-                "title": "Month"
+                "field": "Year",
+                "type": "ordinal",
+                "title": "Year"
             },
             {
                 "field": "Energy Type",
